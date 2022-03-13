@@ -18,7 +18,11 @@
   "author": "Carlos Florez <carlsos.andres.ff2912@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/carlosandf/random-messages/issues"
+  },
+  "homepage": "https://github.com/carlosandf/random-messages#readme"
 }
